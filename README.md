@@ -5,11 +5,10 @@
 - 💞️ I’m looking to collaborate on Scrach projects ...
 - 📫 How to reach me:Reach me out here(Github)!...
 
-## I am totally a beginner!
+## I am a complete beginner!
 ## What I am doing...
-- Working out the module "work-ez" on npm
-
-
+- Working on coding tutorials.
+- 
 [![ScratchCoder135's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScratchCoder135)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 ScratchCoder135/ScratchCoder135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
